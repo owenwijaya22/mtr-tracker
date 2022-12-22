@@ -1,0 +1,31 @@
+{
+    "AEL": {
+        "name": "Airport Express",
+        "stops": ["HOK", "KOW", "TSY", "AIR", "AWE"]
+    },
+    "TCL": {
+        "name": "Tung Chung Line",
+        "stops": ["HOK", "KOW", "OLY", "NAC", "LAK", "TSY", "SUN", "TUC"]
+    },
+    "WRL": {
+        "name": "West Rail Line",
+        "stops": [
+            "HUH",
+            "ETS",
+            "AUS",
+            "NAC",
+            "MEF",
+            "TWW",
+            "KSR",
+            "YUL",
+            "LOP",
+            "TIS",
+            "SIH",
+            "TUM"
+        ]
+    },
+    "TKL": {
+        "name": "Tseung Kwan O Line",
+        "stops": ["NOP", "QUB", "YAT", "TIK", "TKO", "LHP", "HAH", "POA"]
+    }
+}
